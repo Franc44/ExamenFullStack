@@ -1,0 +1,30 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.pdb
+*.exe
+packages/
+.vs/
+appsettings.Development.json
+
+# React
+node_modules/
+build/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Database
+*.mdf
+*.ldf
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
